@@ -3,9 +3,9 @@
 
 ## 截图
 
-![zsh](./img/Screenshot from 2017-03-26 01-38-47.png)
+![vim](./img/vim.png)
 
-![Screenshot from 2017-03-26 01-40-33](./img/Screenshot from 2017-03-26 01-45-18.png)
+![vim+zsh+tmux](./img/vim+zsh+tmux.png)
 
 ## 安装
 
