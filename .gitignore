@@ -40,3 +40,7 @@ nosetests.xml
 
 # Virtual environment
 venv
+.env
+
+# Mac
+.DS_Store
